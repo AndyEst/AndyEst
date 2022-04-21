@@ -1,6 +1,6 @@
 # Hey there, i'm Andy 👋🏼
 
-I'm a self taught coder specializing in JS/CSS/HTML.  Webapps & database construction are my jam.  Personal projects are NFL/fantasy football related at the moment.  
+I'm a self taught dev specializing in JS/CSS/HTML.  Webapps & database construction are my jam.  Personal projects are NFL/fantasy football related at the moment.  
 
 ### Current Projects:
 - https://FantasyMocks.com/ - a webapp for (dynasty) fantasy football mocks & collecting ADP. 
